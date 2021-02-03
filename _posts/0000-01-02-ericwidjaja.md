@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+my new lorem ipsun
 Use the left arrow to go back!
